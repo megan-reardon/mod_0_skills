@@ -1,0 +1,13 @@
+Class: Cake
+
+Attributes:
+color (string)
+glutenFree (boolean)
+sugarContent (integer)
+weight (integer)
+
+Methods:
+changeColor (changes the color attribute)
+addSugar (increases the sugarContent integer)
+removeFlour (changes glutenFree boolean)
+addWeddingTopper (increases weight integer)
