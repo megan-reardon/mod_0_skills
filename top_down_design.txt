@@ -1,0 +1,37 @@
+How to become a Turing student
+
+1 Decide if you like programming
+  1.1 Attend Try Coding weekend at Turing
+    1.1.1 Attend back end engineering day
+    1.1.2 Attend front end engineering day
+    1.1.3 Ask questions
+  1.2 Continue practicing exercises at home
+  1.3 Research programming on your own
+2 Go through Turing application process
+  2.1 Fill out online application
+  2.2 Take initial logic test
+  2.3 Interview with Turing instructor
+    2.3.1 Receive interview request email from Erin Williams
+    2.3.2 Register for an interview time
+    2.3.3 Attend in-person interview or Google hangouts interview online
+    2.3.4 Receive acceptance email from Erin Williams
+3 Decide if you would like to be a student
+  3.1 Weigh pros and cons
+    3.1.1 Talk with friends and family about your thoughts
+    3.1.2 Talk with current and previous Turing alumni about the program
+  3.2 Determine your financial situation
+    3.2.1 Create a hypothetical budget for the program
+4 Become a student
+  4.1 Follow directions in email from Erin Williams to register
+    4.1.1 Submit initial $1200 deposit
+    4.1.2 Determine if you will do front end or back end program
+    4.1.3 Determine your cohort start date
+    4.1.4 Register for mod 0 session
+  4.2 Complete mod 0
+    4.2.1 Receive laptop
+    4.2.2 Attend mod 0 sessions
+    4.2.3 Complete mod 0 homework
+    4.2.4 Complete mod 0 final assessment
+    4.2.5 Pass mod 0
+  4.3 Enroll by 1 month before cohort start date
+5 Arrive at Turing on Day 1
