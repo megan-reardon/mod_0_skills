@@ -1,0 +1,14 @@
+Class: Cup
+Object: Pint Glass
+
+Attributes:
+clean: No
+material: "Glass"
+design: "Odell Brewery Logo"
+height: 7
+
+Methods:
+wash: clean = Yes
+break: height = 3
+changePaint: color = "White"
+stack: height = 12
