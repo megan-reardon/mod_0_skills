@@ -1,0 +1,14 @@
+Class: Cake
+Object: Carrot Cake
+
+Attributes:
+color: "White"
+glutenFree: No
+sugarContent: 100
+weight: 10
+
+Methods:
+changeColor: color = "Orange"
+addSugar: sugarContent = 110
+removeFlour: glutenFree = Yes
+addWeddingTopper: weight = 13
