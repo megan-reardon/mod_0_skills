@@ -1,0 +1,13 @@
+Class: Cup
+
+Attributes:
+clean (boolean)
+material (string)
+design (string)
+height (integer)
+
+Methods:
+wash (changes clean attribute)
+break (decreases height integer)
+changePaint (changes design attribute)
+stack (changes height integer)
